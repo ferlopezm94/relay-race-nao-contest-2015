@@ -1,2 +1,3 @@
-# relay-race-nao-contest-2015
-Code for Relay Race category.
+# Contest of Robotics and Artificial Intelligence NAO 2015
+## Relay Race Category
+Code used for Relay Race category. 
